@@ -1,0 +1,21 @@
+{
+  "id": "tablet",
+  "nome": "tablet",
+  "preco": 2999,
+  "descricao": "Desc do produto: tablet",
+  "estoque": 12,
+  "img": "./api/tablet/tablet.jpeg",
+  "avaliacoes": [
+    {
+      "nome": "Fabio",
+      "estrelas": 5,
+      "descricao": "Gostei muito do tablet"
+    },
+    {
+      "nome": "Carlos",
+      "estrelas": 1,
+      "descricao": "Não gostei muito do tablet"
+    }
+
+  ]
+}

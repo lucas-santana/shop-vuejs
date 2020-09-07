@@ -1,0 +1,21 @@
+{
+  "id": "notebook",
+  "nome": "Notebook",
+  "preco": 2999,
+  "descricao": "Desc do produto notebook",
+  "estoque": 12,
+  "img": "./api/notebook/notebook.jpeg",
+  "avaliacoes": [
+    {
+      "nome": "Fabio",
+      "estrelas": 5,
+      "descricao": "Gostei muito do notebook"
+    },
+    {
+      "nome": "Carlos",
+      "estrelas": 4,
+      "descricao": "Não gostei muito do notebook"
+    }
+
+  ]
+}

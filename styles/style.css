@@ -1,0 +1,14 @@
+.produto img{
+    cursor: pointer;
+}
+
+
+
+.alert-message{
+    position: fixed;
+    top: 20px;
+    left: 0px;
+    z-index: 999999;
+    width:40%;
+    text-align: center;
+}

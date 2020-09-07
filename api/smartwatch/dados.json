@@ -1,0 +1,21 @@
+{
+  "id": "smartwatch",
+  "nome": "Smartwatch",
+  "preco": 2999,
+  "descricao": "Desc do produto smartwatch",
+  "estoque": 12,
+  "img": "./api/smartwatch/smartwatch.jpeg",
+  "avaliacoes": [
+    {
+      "nome": "Fabio",
+      "estrelas": 5,
+      "descricao": "Gostei muito smartwatch"
+    },
+    {
+      "nome": "Carlos",
+      "estrelas": 2,
+      "descricao": "Não gostei muito smartwatch"
+    }
+
+  ]
+}
